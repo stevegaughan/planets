@@ -1,1 +1,3 @@
 git - global information tracker, track changes to code, documents, etc. 
+
+making changes in R Studio, linked in to Git 
